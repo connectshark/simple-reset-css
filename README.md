@@ -5,11 +5,20 @@
 ## 目錄
 
 - [直接使用](#直接使用)
+  - [原版](#原版)
+  - [壓縮版本](#壓縮版本)
 - [引用出處](#引用出處)
 ## 直接使用
 複製後直接使用
+
+### 原版
 ```
 https://cdn.jsdelivr.net/gh/connectshark/simple-reset-css/main.css
+```
+
+### 壓縮版本
+```
+https://cdn.jsdelivr.net/gh/connectshark/simple-reset-css/main.min.css
 ```
 
 ## 引用出處
